@@ -1,7 +1,9 @@
-# 자바 스터디 
+# Java
 
-- [클래스](https://github.com/Choironi/Java_Study/blob/master/markdown/Class.md)
+- [기초문법](https://github.com/Choironi/Java_Study/blob/master/Java/basic.md)
 
-- [메소드](https://github.com/Choironi/Java_Study/blob/master/markdown/Method.md)
+- [클래스](https://github.com/Choironi/Java_Study/blob/master/Java/Class.md)
 
-- [Var](https://github.com/Choironi/Java_Study/blob/master/markdown/ab/Var.md)
+- [메소드](https://github.com/Choironi/Java_Study/blob/master/Java/Method.md)
+
+- [Var](https://github.com/Choironi/Java_Study/blob/master/Java/ab/Var.md)
