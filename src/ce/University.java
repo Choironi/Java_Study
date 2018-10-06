@@ -8,9 +8,9 @@ public class University{ //  클래스 이름 : 일반적으로 첫글자 대문
     public String name; // 멤버 변수(속성)
     public int grade;
 
-    public University(String m, String n, int g){ //string m,n, int g 값을 받음
+    public University(String major, String n, int g){ //string m,n, int g 값을 받음
         System.out.println("use or not");  //
-        major = m; //
+        this.major = major; // this.major 는 이 클래스 내의 멤버로 접근, major는 해당 메소드부터 접근
         name = n;
         grade = g;
     }
