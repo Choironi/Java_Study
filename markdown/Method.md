@@ -24,7 +24,7 @@ public class MainMethodex {
 }
 ```
 
-- 메서드 호출 : 클래스명.메서드 명(매개변수); //도트 접근자를 이용해 호출
+- 메서드 호출 : 클래스명.메서드 명(매개변수); , 도트 접근자를 이용해 호출
 
 ```java
 
@@ -126,13 +126,13 @@ grade : 2
 
 ## : 이름은 같고, 매개변수의 개수 또는 타입이 다른 메서드를 만들 수 있다
 
-- public void getInfo() // 매개변수 없음
-- public void getInfo(int x, int y) // 2개, int 형
-- public void getInfo(String s1, String s2) // int <-> String 자료형의 차이
+- public void getInfo() : 매개변수 없음
+- public void getInfo(int x, int y) : 2개, int 형
+- public void getInfo(String s1, String s2) : int <-> String 자료형의 차이
 
 중복 메서드를 선언 및 정의했다면, 매개변수(Parameter)의 개수와 자료형에 맞춰서 사용할 것
 
-#접근자
+# 접근자
 
 ## : 메서드를 호출할 때 접근자에 따라서 호출이 불가할 수 있음
 
