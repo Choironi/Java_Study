@@ -1,9 +1,11 @@
 # Java
 
-- [기초문법](https://github.com/Choironi/Java_Study/blob/master/markdown/basic.md)
+- [basic](https://github.com/Choironi/Java_Study/blob/master/markdown/basic.md)
 
-- [클래스](https://github.com/Choironi/Java_Study/blob/master/markdown/Class.md)
+- [class](https://github.com/Choironi/Java_Study/blob/master/markdown/Class.md)
 
-- [메소드](https://github.com/Choironi/Java_Study/blob/master/markdown/Method.md)
+- [method](https://github.com/Choironi/Java_Study/blob/master/markdown/Method.md)
 
-- [Var](https://github.com/Choironi/Java_Study/blob/master/Java//Var.md)
+- [hiding](https://github.com/Choironi/Java_Study/blob/master/markdown/hiding.md)
+
+- [inner](https://github.com/Choironi/Java_Study/blob/master/markdown/hiding.md)

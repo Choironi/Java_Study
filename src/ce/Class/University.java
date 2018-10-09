@@ -1,4 +1,4 @@
-package ce;
+package ce.Class;
 
 import com.sun.tools.javac.Main;
 

@@ -1,6 +1,4 @@
-package ce;
-
-        import java.sql.SQLOutput;
+package ce.method;
 
 public class MainMethodex {
 

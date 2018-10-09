@@ -1,4 +1,4 @@
-package ce;
+package ce.method;
 
 public class Methodex {
 
