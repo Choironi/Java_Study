@@ -1,7 +1,5 @@
 package ce.Class;
 
-import com.sun.tools.javac.Main;
-
 public class University{ //  클래스 이름 : 일반적으로 첫글자 대문자
 
     public String major; // 멤버 변수(속성)
