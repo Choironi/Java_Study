@@ -1,6 +1,6 @@
 package ce.method;
 
-public ce.class Methodex {
+public class Methodex {
 
     public String name;
     public String major;
